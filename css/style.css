@@ -13,13 +13,14 @@
 }
 .nav-bar ul {
     list-style: none;
-    display: flex;
     margin-top: 20px;
     padding-bottom: 20px;
+    text-align: center;
 }
 .nav-bar ul li {
     font-size: larger;
     font-weight: 600;
+    display: inline;
 }
 .nav-bar ul li a {
     text-decoration: none;
@@ -28,6 +29,9 @@
 }
 .nav-bar ul li a:hover{
     background-color: brown;
+    size: 5px;
+    margin: 0.px;
+    padding-block: 0.1em;
 
 }
 
