@@ -132,3 +132,15 @@
 }   
 .Contacts li {
         padding: 1em;
+}
+.main-footer {
+        background-color: white;
+        color: aliceblue;
+        padding: 1em 0;
+                 
+}
+.copyright {
+   padding: 1em;
+   color: brown;
+}
+        
