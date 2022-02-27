@@ -59,7 +59,7 @@
 }
 
 .second-div {
-    height: 100vh;
+  
     background-color: black;
 }
 
@@ -87,35 +87,32 @@
     max-width: 1100px;
     margin: 1px;
 }
-.work-section {
-    background-color: black;
-    margin: 1px;
-    
-}
 
-#projects{
+.projects{
     background-color: black;
     color:white;
     padding: 5em;
-   
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 1px;
+    justify-content: center;
 }
-#projects h1{
+.projects h1{
     text-align: center;
     font-size: 50px;
     color: brown;
 }
-#projects ul{
+.projects ul{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
 }
-#projects hr{
+.projects hr{
     width: 60%;
 }
 
-#projects ul li{
+.projects ul li{
     width: 300px;
     list-style: none;
     text-align: center;
@@ -135,7 +132,7 @@
 }
 .main-footer {
         background-color: white;
-        color: aliceblue;
+       
         padding: 1em 0;
                  
 }
