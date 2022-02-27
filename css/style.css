@@ -6,6 +6,9 @@
     box-sizing: border-box;
 }
 
+.hero-div{
+    height: 100vh;
+}
 .nav-bar {
     background-color: rgb(23, 29, 51);
     display: flex;
@@ -54,3 +57,19 @@
 .name{
     color: red;
 }
+
+.second-div {
+    height: 100vh;
+    background-color: black;
+}
+
+.about-image {
+    height: 350px;
+    width: 300px;
+    float: right;
+    border-radius: 80%;
+    margin: 0.3em;
+    padding-bottom: 1em;
+    
+}
+    
