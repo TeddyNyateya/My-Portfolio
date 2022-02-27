@@ -1,4 +1,4 @@
-## First Projects
+## First Project
 
 This is a portfolio site to showcase my proffessional and non-professional competencies.It contains a general description of who i am,why i am into programming,my academic and professional background and my contact information.
 ## Table of contents
