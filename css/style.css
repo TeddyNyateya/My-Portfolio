@@ -75,5 +75,14 @@
     text-align: center;
     color:  rgb(163, 53, 53);
     padding-top: 2em;
-    font-size: larger;
 }  
+.about-content {
+    padding-top: 2em;
+    padding-left: 4em;
+    box-sizing: border-box;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-bottom: 8em;
+    max-width: 1100px;
+    margin: 1px;
