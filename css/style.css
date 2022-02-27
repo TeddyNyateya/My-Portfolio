@@ -86,3 +86,9 @@
     padding-bottom: 8em;
     max-width: 1100px;
     margin: 1px;
+}
+.work-section {
+    background-color: black;
+    margin: 1px;
+    height: 100vh;
+}
