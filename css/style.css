@@ -120,3 +120,15 @@
     list-style: none;
     text-align: center;
     font-size: 120%; 
+}
+.Contacts {
+        background-color: black;
+        color: aliceblue;
+        padding: 3em;
+        text-align: center;
+}
+.Contacts ul {
+        list-style: none;
+}   
+.Contacts li {
+        padding: 1em;
